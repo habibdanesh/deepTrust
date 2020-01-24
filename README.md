@@ -1,4 +1,4 @@
 # deepTrust
 ML with Trust Score
 
-![poster](Poster.png)
+![poster](poster.png)
